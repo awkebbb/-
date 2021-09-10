@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Spring">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../谷歌下载/Spring基础jar包" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../谷歌下载/Spring基础jar包" recursive="false" />
+  </library>
+</component>
